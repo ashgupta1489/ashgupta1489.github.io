@@ -16,7 +16,8 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
+<h3> BITS ID : 2020mt93655 @ wilp.bits-pilani.ac.in</h3>
+<br>
 Ashish works as a Solution Architect with 10+ years of experience in IT industry, focused on architecture, consulting and project execution in card network, banking, financial and healthcare domains with broad knowledge of current and emerging technologies and standards. 
 
   His career includes playing roles from Engineering Director to solution architect gaining expertise in the areas of legacy modernization, human centered design, multichannel integration, customer centricity, process-oriented design, middleware, Cloud, Microservices and SOA Journey. 
